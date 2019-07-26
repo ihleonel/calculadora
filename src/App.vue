@@ -18,11 +18,13 @@ export default {
 </script>
 
 <style lang="scss">
+@import url('https://fonts.googleapis.com/css?family=Quicksand&display=swap');
 .contenido {
+  font-family: 'Quicksand', sans-serif;
+  font-size: 1.5em;
   width: 100%;
   display: flex;
   flex-direction: column;
-  justify-content: center;
-  aling-items: center;
+  align-items: center;
 }
 </style>
